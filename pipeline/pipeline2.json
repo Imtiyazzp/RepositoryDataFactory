@@ -34,6 +34,7 @@
 			},
 			{
 				"name": "filterGetMetData",
+				"description": "This Filter have been used to fetch only those files that starts with \"A\"",
 				"type": "Filter",
 				"dependsOn": [
 					{
