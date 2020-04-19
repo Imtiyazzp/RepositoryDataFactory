@@ -34,7 +34,7 @@
 			},
 			{
 				"name": "filterGetMetData",
-				"description": "This Filter have been used to fetch only those files that starts with \"A\"",
+				"description": "This Filter activity have been used to fetch only those files that starts with A, from the on prem folder ",
 				"type": "Filter",
 				"dependsOn": [
 					{
