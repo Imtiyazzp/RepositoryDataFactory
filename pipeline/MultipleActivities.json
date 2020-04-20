@@ -4,7 +4,7 @@
 		"activities": [
 			{
 				"name": "plGetMetadata",
-				"description": "Folder Metadata to be captured ",
+				"description": "Folder Metadata to be captured  - 0420 ",
 				"type": "GetMetadata",
 				"dependsOn": [],
 				"policy": {
